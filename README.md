@@ -158,6 +158,11 @@ make package/easycwmp/compile
 
 ![image](https://github.com/TrollMafia/Easycwmp-Installation/assets/116051989/3f9c58cb-8cee-452e-b9e6-590e31d4e4ac)
 
+### Step 16:
+
+There are some required packages you need to install in order to install Easycwmp. 
+I have included the main packages in the repository, if there are some packages missing like `curl` just install it with `opkg`.
+
  
 You will get your `.ipk` file in the `bin/packages/your_selected_target/base/easycwmp.ipk`
 

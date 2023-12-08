@@ -88,6 +88,8 @@ make menuconfig
 
  ### Step 10: Select easycwmp in menuconfig
 
+ In the `Targets` section select your target. I have selected `x86_64` , select your target according to your preference.
+
 Navigate to the Utilities section in `menuconfig`, select easycwmp by pressing 'Y'.
 
  ![image](https://github.com/TrollMafia/Easycwmp-Installation/assets/116051989/c0c8d198-e475-4ce4-aaae-4eac7f280fc1)
